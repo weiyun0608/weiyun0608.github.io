@@ -112,17 +112,9 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":44},
 	"sourceSize": {"w":38,"h":44}
 },
-"CachedBmp_27":
+"CachedBmp_29":
 {
 	"frame": {"x":454,"y":1002,"w":452,"h":676},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":676},
-	"sourceSize": {"w":452,"h":676}
-},
-"CachedBmp_28":
-{
-	"frame": {"x":0,"y":1002,"w":452,"h":676},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":676},
@@ -135,6 +127,14 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":301},
 	"sourceSize": {"w":85,"h":301}
+},
+"CachedBmp_30":
+{
+	"frame": {"x":0,"y":1002,"w":452,"h":676},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":676},
+	"sourceSize": {"w":452,"h":676}
 },
 "CachedBmp_5":
 {
