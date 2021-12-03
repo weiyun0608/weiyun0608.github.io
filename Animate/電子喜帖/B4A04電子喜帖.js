@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"B4A04電子喜帖 _2__atlas_1", frames: [[908,1500,38,44],[908,1546,38,44],[908,1346,178,152],[908,1592,38,42],[1152,1647,59,135],[1039,1500,106,153],[1137,1812,66,153],[717,1975,43,40],[952,1803,98,170],[1052,1655,98,155],[1147,1480,83,165],[1088,1346,120,132],[1052,1812,83,177],[614,1926,101,95],[0,0,1000,1000],[1002,0,707,671],[1002,673,707,671],[908,1002,85,301],[0,1002,452,676],[952,1500,85,301],[454,1002,452,676],[0,1926,612,118],[0,1680,950,244]]}
+		{name:"B4A04電子喜帖_atlas_1", frames: [[908,1500,38,44],[908,1546,38,44],[908,1346,178,152],[908,1592,38,42],[1152,1647,59,135],[1039,1500,106,153],[1137,1812,66,153],[717,1975,43,40],[952,1803,98,170],[1052,1655,98,155],[1147,1480,83,165],[1088,1346,120,132],[1052,1812,83,177],[614,1926,101,95],[0,0,1000,1000],[1002,0,707,671],[1002,673,707,671],[908,1002,85,301],[0,1002,452,676],[952,1500,85,301],[454,1002,452,676],[0,1926,612,118],[0,1680,950,244]]}
 ];
 
 
@@ -28,161 +28,161 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_21 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_19 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_15 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_14 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_13 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_33 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+(lib.CachedBmp_8 = function() {
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_43 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+(lib.CachedBmp_24 = function() {
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_42 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+(lib.CachedBmp_23 = function() {
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.名子ai = function() {
-	this.initialize(ss["B4A04電子喜帖 _2__atlas_1"]);
+	this.initialize(ss["B4A04電子喜帖_atlas_1"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -711,7 +711,7 @@ p.nominalBounds = new cjs.Rectangle(-236.4,-199,122.9,344.6);
 
 
 // stage content:
-(lib.B4A04電子喜帖2 = function(mode,startPosition,loop,reversed) {
+(lib.B4A04電子喜帖 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -900,20 +900,20 @@ if (reversed == null) { reversed = false; }
 
 	// 新郎新娘
 	this.instance_4 = new lib.CachedBmp_3();
-	this.instance_4.setTransform(281.55,133.6,0.5,0.5);
+	this.instance_4.setTransform(281.5,133.6,0.5,0.5);
 
 	this.instance_5 = new lib.Path();
-	this.instance_5.setTransform(312.65,210.8,0.8396,0.8396,0,0,0,55.5,114.2);
+	this.instance_5.setTransform(312.7,210.8,0.8396,0.8396,0,0,0,55.6,114.2);
 	this.instance_5.alpha = 0.5;
 
-	this.instance_6 = new lib.CachedBmp_42();
+	this.instance_6 = new lib.CachedBmp_23();
 	this.instance_6.setTransform(173.8,88.6,0.5,0.5);
 
 	this.instance_7 = new lib.CachedBmp_5();
 	this.instance_7.setTransform(281.5,133.6,0.5,0.5);
 
-	this.instance_8 = new lib.CachedBmp_43();
-	this.instance_8.setTransform(173.8,88.6,0.5,0.5);
+	this.instance_8 = new lib.CachedBmp_24();
+	this.instance_8.setTransform(173.75,88.6,0.5,0.5);
 
 	var maskedShapeInstanceList = [this.instance_4,this.instance_5,this.instance_6,this.instance_7,this.instance_8];
 
@@ -921,7 +921,7 @@ if (reversed == null) { reversed = false; }
 		maskedShapeInstanceList[shapedInstanceItr].mask = mask_1;
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_6},{t:this.instance_5,p:{regX:55.5,regY:114.2,scaleX:0.8396,scaleY:0.8396,x:312.65,y:210.8}},{t:this.instance_4}]},300).to({state:[{t:this.instance_8},{t:this.instance_5,p:{regX:55.8,regY:114.4,scaleX:0.8395,scaleY:0.8395,x:312.75,y:210.95}},{t:this.instance_7}]},299).wait(201));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_6},{t:this.instance_5,p:{regX:55.6,regY:114.2,scaleX:0.8396,scaleY:0.8396,y:210.8}},{t:this.instance_4}]},300).to({state:[{t:this.instance_8},{t:this.instance_5,p:{regX:55.8,regY:114.5,scaleX:0.8395,scaleY:0.8395,y:210.95}},{t:this.instance_7}]},299).wait(201));
 
 	// 遮色片03 (mask)
 	var mask_2 = new cjs.Shape();
@@ -1032,11 +1032,11 @@ if (reversed == null) { reversed = false; }
 	// 情侶
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f().s("#FFFFFF").ss(1,0,0,4).p("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");
-	this.shape.setTransform(244.5115,262.0284,0.6782,0.6782);
+	this.shape.setTransform(244.5023,262.0152,0.6782,0.6782);
 
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f("#FFFFFF").s().p("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");
-	this.shape_1.setTransform(244.5115,262.0284,0.6782,0.6782);
+	this.shape_1.setTransform(244.5023,262.0151,0.6782,0.6782);
 
 	var maskedShapeInstanceList = [this.shape,this.shape_1];
 
@@ -1048,7 +1048,7 @@ if (reversed == null) { reversed = false; }
 
 	// 大紅心
 	this.instance_9 = new lib.CachedBmp_6();
-	this.instance_9.setTransform(71.6,97.2,0.5,0.5);
+	this.instance_9.setTransform(71.6,97.15,0.5,0.5);
 	this.instance_9._off = true;
 
 	var maskedShapeInstanceList = [this.instance_9];
@@ -1169,11 +1169,11 @@ if (reversed == null) { reversed = false; }
 	// 情侶
 	this.shape_2 = new cjs.Shape();
 	this.shape_2.graphics.f().s("#FFFFFF").ss(1,0,0,4).p("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");
-	this.shape_2.setTransform(244.5023,262.0063,0.6782,0.6782);
+	this.shape_2.setTransform(244.493,261.9974,0.6781,0.6781);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#FFFFFF").s().p("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");
-	this.shape_3.setTransform(244.5023,262.0062,0.6782,0.6782);
+	this.shape_3.setTransform(244.493,261.9974,0.6781,0.6781);
 
 	var maskedShapeInstanceList = [this.shape_2,this.shape_3];
 
@@ -1302,7 +1302,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance_10).to({_off:true},200).wait(600));
 
 	// 背景
-	this.instance_11 = new lib.CachedBmp_33();
+	this.instance_11 = new lib.CachedBmp_8();
 	this.instance_11.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_11).wait(800));
@@ -1320,7 +1320,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/B4A04電子喜帖 _2__atlas_1.png?1638547856041", id:"B4A04電子喜帖 _2__atlas_1"}
+		{src:"images/B4A04電子喜帖_atlas_1.png", id:"B4A04電子喜帖_atlas_1"}
 	],
 	preloads: []
 };
